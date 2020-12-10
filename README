@@ -1,0 +1,23 @@
+Here, the data of different Cars is available with their specifications.
+we perform the following Data Analysis on this Car Dataset, 
+
+1) Data Cleaning
+
+Find all the null values in the dataset.
+If there is any null value in the column(integer), fill it with the mean of that column
+
+2) Check out 
+
+a) now many different types of 'Make' in the dataset
+b)What is the count of occurances of each value in the 'Make' Column
+
+3) Filtering
+Show all the records where origin is Asia or Europe
+
+4) Remove all the unwanted records
+
+Remove all the records(rows) where weight is above 4000
+
+5) Applying a function on a column
+
+Increase all the values of 'MPG_City' column by 3
